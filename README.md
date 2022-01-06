@@ -1,3 +1,8 @@
+Hi Guys,
+This is My First Project Of NEXTjs Hope You Enjoy :)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
